@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598226757323",
+    "firebase_url": "https://flash-chat-d05f8.firebaseio.com",
+    "project_id": "flash-chat-d05f8",
+    "storage_bucket": "flash-chat-d05f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598226757323:android:487e1fa2509abd28ab1d4e",
+        "android_client_info": {
+          "package_name": "co.mtrsacademy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598226757323-o5219qu1k7aq7ci8nqfqgtksk1h64dne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNGhQFeKP2BU2_jdai2Pmxi-zhGxjZZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598226757323-o5219qu1k7aq7ci8nqfqgtksk1h64dne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
